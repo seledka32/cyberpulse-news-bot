@@ -1,0 +1,14 @@
+[
+  {
+    "title": "Team Example wins an international CS2 final",
+    "link": "https://example.com/esports/cs2-final",
+    "isoDate": "2026-07-28T09:30:00.000Z",
+    "contentSnippet": "Team Example won the final after a close series."
+  },
+  {
+    "title": "Dota 2 tournament announces its playoff bracket",
+    "link": "https://example.com/esports/dota-playoffs",
+    "isoDate": "2026-07-28T08:15:00.000Z",
+    "contentSnippet": "The organizers published the playoff schedule and pairings."
+  }
+]
