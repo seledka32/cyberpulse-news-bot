@@ -92,6 +92,14 @@ This repository intentionally uses placeholders. Credentials must be configured 
 - add optional human approval;
 - track successful, skipped and failed runs.
 
+## Repository contents
+
+- [n8n workflow](workflows/cyberpulse-news-bot.json)
+- [Architecture documentation](docs/architecture.md)
+- [Example article candidates](examples/article-candidates.json)
+- [Example generated post](examples/generated-post.txt)
+- [Safe configuration template](.env.example)
+
 ## Author
 
 **Lee Daniel** — AI Automation / Full Stack Developer  
